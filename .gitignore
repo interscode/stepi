@@ -43,3 +43,9 @@ bun.lock
 
 # Git
 .git/
+
+# Android
+android/
+
+# iOS
+ios/
