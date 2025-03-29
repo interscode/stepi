@@ -15,7 +15,7 @@ export default function Singin() {
         <TextInput style={styles.input} placeholder="Contraseña" />
       </View>
       <View style={styles.start}>
-        <Link href="/signup" asChild>
+        <Link href="(tabs)/home" asChild>
           <Pressable
             onPress={() => console.log("Pressed")}
             style={{ width: "100%" }}
